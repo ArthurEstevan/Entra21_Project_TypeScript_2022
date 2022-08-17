@@ -12,7 +12,7 @@
 ![Gif Entra21](https://raw.githubusercontent.com/seiler-emerson/Entra21_Logica_Java_2022/main/gif/entra21.gif)
 
 
-## ![](./Icons/configuracoes.png) Instructions for Execute the Project 
+## ![](./Icons/instrucoes.png) Instructions for Execute the Project 
 
 1. Make a project copy to your machine: 
     - [Git Clone](https://github.com/ArthurEstevan/Entra21_Project_TypeScript_2022) ⇽ Clone this repository on your computer
@@ -33,7 +33,7 @@ Project made in TypeScript, where we use the class diagram of the Entra21_Projec
 
 ---
 
-## ![](/icons/icons/configuracoes.png) Technologies Used
+## ![](./Icons/configuracoes.png) Technologies Used
 
 - IDE - Integrated development environment 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -65,4 +65,4 @@ Project made in TypeScript, where we use the class diagram of the Entra21_Projec
 
 <br>
 
-![gift](/Assets/Trabalho%20Entra21%20-%20P%C3%A1gina%201.pdf)
+![image](/Assets/Trabalho%20Entra21%20-%20P%C3%A1gina%201.jpeg)
