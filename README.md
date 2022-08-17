@@ -1,4 +1,4 @@
-# Entra![](/icons/entra21numero.png) JavaScript Contents ![](/icons/typescript.png) 
+# Entra![](/Icons/entra21numero.png) JavaScript Contents ![](/Icons/typescript.png) 
 
 ## _Repository with several subjects in TypeScript_
 
@@ -25,7 +25,7 @@
     
 ---
 
-## ![](/icons/icon_conceito.png) About the Project
+## ![](/Icons/icon_conceito.png) About the Project
 
 Project made in TypeScript, where we use the class diagram of the Entra21_Project_BC_2022 project, we don't have any action by the ICRUD or business rule, however, we wrote the entire database and made use of the concept of "Inheritance".
 
@@ -61,7 +61,7 @@ Project made in TypeScript, where we use the class diagram of the Entra21_Projec
 
 ---
 
-## ![](/icons/arquivos-de-imagem.png) Design Diagram
+## ![](/Icons/arquivos-de-imagem.png) Design Diagram
 
 <br>
 
