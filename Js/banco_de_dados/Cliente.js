@@ -4,24 +4,6 @@ export class Cliente extends Pessoa {
     //=============================== START OF CONSTRUTOR ===============================//
     constructor(nome, cpf, rg, dataNascimento, sexo, nomeMae, nomePai, email, cep, endereco, numero, bairro, cidade, estado, telefone, saldo, contaCorrente, agencia, dataCadastro, reclamacoes, senha) {
         super(nome, cpf, rg, dataNascimento, sexo, nomePai, nomeMae, email, cep, endereco, numero, bairro, cidade, estado, telefone, saldo, contaCorrente, agencia);
-        this.nome = nome;
-        this.cpf = cpf;
-        this.rg = rg;
-        this.dataNascimento = dataNascimento;
-        this.sexo = sexo;
-        this.nomeMae = nomeMae;
-        this.nomePai = nomePai;
-        this.email = email;
-        this.cep = cep;
-        this.endereco = endereco;
-        this.numero = numero;
-        this.bairro = bairro;
-        this.cidade = cidade;
-        this.estado = estado;
-        this.telefone = telefone;
-        this.saldo = saldo;
-        this.contaCorrente = contaCorrente;
-        this.agencia = agencia;
         this.dataCadastro = dataCadastro;
         this.dataAtualizacao = dataCadastro;
         this.reclamacoes = reclamacoes;
@@ -38,9 +20,15 @@ export class Cliente extends Pessoa {
     get getReclamacoes() {
         return this.reclamacoes;
     }
-    // public get getSenha() : String { -> NÃO RETORNAMOS A SENHA PARA PROTEGER O USUÁRIO
-    //     return this.senha
-    // }
+    getSenha(parm) {
+        if (parm == this.cpf) {
+            return this.senha;
+        }
+        else {
+            console.log("Desculpe não podemos fornecer");
+            return null;
+        }
+    }
     //=============================== END OF GETTERS ===============================//
     //=============================== START OF SETTERS ===============================//
     set setDataCadastro(dataCadastro) {
