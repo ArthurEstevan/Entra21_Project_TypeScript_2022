@@ -12,7 +12,7 @@
 ![Gif Entra21](https://raw.githubusercontent.com/seiler-emerson/Entra21_Logica_Java_2022/main/gif/entra21.gif)
 
 
-## ![](/icons/instrucoes.png) Instructions for Execute the Project 
+## ![](./Icons/configuracoes.png) Instructions for Execute the Project 
 
 1. Make a project copy to your machine: 
     - [Git Clone](https://github.com/ArthurEstevan/Entra21_Project_TypeScript_2022) ⇽ Clone this repository on your computer
