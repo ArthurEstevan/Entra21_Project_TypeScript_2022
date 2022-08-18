@@ -1,4 +1,4 @@
-# Entra![](/Icons/entra21numero.png) JavaScript Contents ![](/Icons/typescript.png) 
+# Entra![](/Icons/entra21numero.png) TypeScript Contents ![](/Icons/typescript.png) 
 
 ## _Repository with several subjects in TypeScript_
 
